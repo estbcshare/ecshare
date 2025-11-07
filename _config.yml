@@ -102,5 +102,5 @@ theme: shoka
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/estbcshare/ecshare
+  repo: git@github.com:estbcshare/ecshare.git
   branch: main
